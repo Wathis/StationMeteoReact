@@ -1,0 +1,13 @@
+.pluie {
+    transform: translateY(-50vh);
+}
+
+.pluie {
+    animation: pleuvoir infinite 5s linear;
+    height: 80px;
+}
+
+@keyframes pleuvoir {
+    from { transform: translateY(-50%); }
+    to { transform: translateY(50%); }
+}

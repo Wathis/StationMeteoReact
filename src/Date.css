@@ -1,0 +1,25 @@
+@font-face {
+    font-family: gotikaSmallCaps;
+    src: url('fonts/Typo Gotika Small Caps Demo.otf');
+}
+
+div {
+    font-family: gotikaSmallCaps;
+    color: white;
+    text-align: center;
+}
+
+.heure {
+    font-size: 80px;
+    margin-top: 30px;
+}
+
+.journee {
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.degres {
+    font-size: 80px;
+    margin-top: 20px;
+}

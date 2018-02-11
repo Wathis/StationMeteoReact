@@ -1,0 +1,12 @@
+.containerPrevisionJour {
+    margin-top:8vh;
+    transition: all .2s ease-in-out;
+}
+
+.containerPrevisionJour:hover {
+    transform: scale(1.2);
+}
+
+.containerPrevisionJour > * {
+    margin-top: 15px;
+}
